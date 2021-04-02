@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=brevent-starter
+name=Brevent-Starter
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Charles
+description=Auto start Brevent while Android System boot up
